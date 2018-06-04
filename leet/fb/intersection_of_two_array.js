@@ -43,6 +43,9 @@ function intersectSorted(nums1, nums2) {
   return res;
 }
 
+function intersectOneLargeArray(nums1, nums2) {}
+
+function binarySearch(params) {}
 //What if nums1's size is small compared to nums2's size? Which algorithm is better?
 
 console.log(intersectSorted([1, 2, 2, 1], [2, 2]));
